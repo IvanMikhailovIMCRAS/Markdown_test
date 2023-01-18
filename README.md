@@ -1,5 +1,5 @@
 # Markdown_test
-For my own trenings with Markdown into Github
+For my own trainings with Markdown into Github
 
 ## code highlighting
 
