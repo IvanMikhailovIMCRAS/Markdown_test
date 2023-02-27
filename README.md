@@ -15,6 +15,7 @@ https://gcoder.ru/delaem-vse-pravilno-proekt-na-python-v-2021/
 ## module typing for annotations
 ```
 https://proglib.io/p/annotacii-tipov-v-python-vse-chto-nuzhno-znat-za-5-minut-2022-01-30
+https://habr.com/ru/company/lamoda/blog/432656/
 ```
 ## How to install python3.9
 
