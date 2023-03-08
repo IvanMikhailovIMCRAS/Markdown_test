@@ -56,6 +56,12 @@ test:
 pyenv install –list
 ```
 
+## How to install postgreSQL
+
+```console
+https://ruvds.com/ru/helpcenter/postgresql-pgadmin-ubuntu/
+```
+
 ## tree
 
 ```shell
