@@ -60,7 +60,9 @@ pyenv install –list
 
 ```console
 https://ruvds.com/ru/helpcenter/postgresql-pgadmin-ubuntu/
+https://www.youtube.com/watch?v=kWUW3sMK0Mk
 ```
+
 
 ## tree
 
