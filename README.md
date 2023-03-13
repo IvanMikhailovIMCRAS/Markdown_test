@@ -1,6 +1,11 @@
 # Markdown_test
 For my own trainings with Markdown into Github
 
+## good chanel about Git
+```
+https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
+```
+
 ## PEPs list
 ```
 https://peps.python.org/pep-0000/
