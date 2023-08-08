@@ -6,6 +6,11 @@ For my own trainings with Markdown into Github
 https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
 ```
 
+## poetry install and setting
+```
+https://ru.hexlet.io/courses/python-setup-environment/lessons/start-with-poetry/theory_unit
+```
+
 ## PEPs list
 ```
 https://peps.python.org/pep-0000/
