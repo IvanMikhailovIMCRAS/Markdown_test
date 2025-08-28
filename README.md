@@ -1,6 +1,16 @@
 # Markdown_test
 For my own trainings with Markdown into Github
 
+
+## how to change keybinding EN-RU on ubuntu
+```console
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L']" && gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Shift>Alt_L']"
+```
+or
+```console
+gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L', '<Alt>Shift_R']" && gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Shift>Alt_L', '<Shift>Alt_R']"
+```
+
 ## good chanel about Git
 ```
 https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
